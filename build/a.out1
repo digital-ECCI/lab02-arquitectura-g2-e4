@@ -1,9 +1,4 @@
-**** module/scope: sumador_restador_tb
-     Flip-Flops   : 0
-     Logic Gates  : 0
-     LOG[13]: 1 unaccounted
-     LOG[14]: 1 unaccounted
-**** module/scope: sumador_restador_tb.uut
+**** module/scope: sumador_restador
      Flip-Flops   : 0
      Logic Gates  : 24
      ADDER[5]: 2 units
@@ -11,5 +6,3 @@
      Flip-Flops   : 0
      Logic Gates  : 24
      ADDER[5]: 2 units
-     LOG[13]: 1 unaccounted
-     LOG[14]: 1 unaccounted
