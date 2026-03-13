@@ -1,0 +1,58 @@
+$date
+	Thu Mar 12 18:59:38 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module sumador_restador_tb $end
+$scope module uut $end
+$var wire 4 ! A [3:0] $end
+$var wire 4 " B [3:0] $end
+$var wire 4 # B_mod [3:0] $end
+$var wire 1 $ Sel $end
+$var wire 4 % Suma [3:0] $end
+$var wire 1 & Co $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+0&
+b0 %
+0$
+b0 #
+b0 "
+b0 !
+$end
+#10000
+b100 #
+b111 %
+b100 "
+b11 !
+#20000
+1&
+b1010 #
+b10 %
+1$
+b101 "
+b111 !
+#30000
+b1000 #
+b1100 %
+0&
+b111 "
+b11 !
+#40000
+b1001 #
+b11 %
+1&
+0$
+b1001 "
+b1010 !
+#50000
